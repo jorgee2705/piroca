@@ -1,0 +1,1 @@
+"use strict";!function(e,p){"object"==typeof exports&&"object"==typeof module?module.exports=p():"function"==typeof define&&define.amd?define("MyApp",[],p):"object"==typeof exports?exports.MyApp=p():e.MyApp=p()}(self,function(){return(self.webpackChunkMyApp=self.webpackChunkMyApp||[]).push([[57],{},function(e){return e.O(0,[65],function(){return e(e.s=8065)}),e.O()}])});
